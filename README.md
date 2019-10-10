@@ -11,6 +11,13 @@ npm install
 
 ## Run
 
+```js
+npm start -- [command] [--arguments]
+```
+
+
+## Examples
+
 
 + List the characters by name. (Optional) Introduce a page number between 1 and 25 to go through the different pages. 
 For example, list the characters from page 10.
